@@ -1,1 +1,1 @@
-# ecmascript-jonmircha
+# javascript-jonmircha
